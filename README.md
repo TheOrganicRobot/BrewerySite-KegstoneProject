@@ -1,4 +1,6 @@
-# Capstone Starter Project
+# Capstone Project
+
+### Please visit https://www.youtube.com/watch?v=zX7iuf_YsR4 to see a video of some early functionality of the site. Additional functionality has been added since during the finalization of the project.
 
 ## Database
 
